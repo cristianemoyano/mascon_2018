@@ -84,7 +84,7 @@ $ git push heroku master
 ```
 
 ##### heroku app
-[Heroku app](https://weather-webhook-bot-app.herokuapp.com/)
+[Heroku app](https://chatbot-mascon.herokuapp.com/)
 
 
 ## New git release
